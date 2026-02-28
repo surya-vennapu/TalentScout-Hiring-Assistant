@@ -129,14 +129,16 @@ No vector databases, embeddings, RAG, or agent orchestration are used.
 
 ## 📁 Project Structure
 
-TalentScout/ 
-│ 
-├── main.py      ( Streamlit application )
-├── services.py  ( LLM integration logic )
-├── prompts.py   ( System prompt definitions )
-├──requirements.txt
-├── CSS.py 
+```
+TalentScout/
+│
+├── main.py           # Streamlit application
+├── services.py       # LLM integration logic
+├── prompts.py        # System prompt definitions
+├── requirements.txt
+├── CSS.py
 └── README.md
+```
 
 ------------------------------------------------------------------------
 
